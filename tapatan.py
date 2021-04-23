@@ -1,14 +1,23 @@
+####################################################
+# groupe MPCI 7
+# Clément Coste
+# Tom Le Goueff
+# Yanis Kbayli
+# Maeva Laurence
+#https://github.com/uvsq22008945/tapatan.py.git
+####################################################
+
 #########################
 # import des modules
 import tkinter as tk
 
 ###########################
 # constantes du programme
-HAUTEUR=600
-LARGEUR=600
-HAUTEUR_LIGNE=400
-LARGEUR_LIGNE=400
-RAYON=10
+HAUTEUR = 600
+LARGEUR = 600
+HAUTEUR_LIGNE = 400
+LARGEUR_LIGNE = 400
+RAYON = 10
 color = 'black'
 ##########################
 # fonctions du programme
